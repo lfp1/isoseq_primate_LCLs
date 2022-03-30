@@ -1,0 +1,15 @@
+#species type
+Hsap	ref
+Ggor	tar
+Mmul	tar
+Pabe	tar
+Ptro	tar
+#--END--
+
+#alignment cutoff
+##sp1 sp2 alignRate identity
+Hsap Ggor 0 0
+Hsap Mmul 0 0
+Hsap Pabe 0 0
+Hsap Ptro 0 0
+#--END--
